@@ -1,56 +1,41 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre el Proyecto",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Tecnologías",
+      "url": "/tech-stack"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
+      "name": "Contacto",
+      "url": "/contact"
     }
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Características",
+      "url": "/#features"
     },
     {
-      "name": "Privacy Policy",
+      "name": "Tecnologías",
+      "url": "/tech-stack"
+    },
+    {
+      "name": "Sobre el Proyecto",
+      "url": "/about"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    },
+    {
+      "name": "Política de Privacidad",
       "url": "/privacy-policy"
     }
   ]

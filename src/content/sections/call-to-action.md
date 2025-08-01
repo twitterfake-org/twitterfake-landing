@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "¿Listo para explorar TwitterFake?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Descubre cómo una red social moderna puede ser desarrollada con tecnologías de vanguardia. Ve el proyecto en acción y conoce la implementación detrás de esta innovadora plataforma."
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "Ver Demo Live"
+  link: "https://twitterfake.web.app/"
 ---

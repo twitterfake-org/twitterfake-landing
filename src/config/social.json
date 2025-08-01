@@ -1,24 +1,19 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
-    },
-    {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/twitterfake-org/twitterfake-landing"
     },
     {
       "name": "linkedin",
       "icon": "FaLinkedin",
       "link": "https://www.linkedin.com/"
+    },
+    {
+      "name": "portfolio",
+      "icon": "FaUser",
+      "link": "https://jackaranaram.web.app/"
     }
   ]
 }

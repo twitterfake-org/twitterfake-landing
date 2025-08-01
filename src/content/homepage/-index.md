@@ -1,51 +1,52 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "TwitterFake - La Red Social del Futuro"
+  content: "Una plataforma de mensajería y red social moderna desarrollada con tecnologías de última generación. Conecta, comparte y comunícate de manera segura y escalable."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Explorar la App"
+    link: "https://twitterfake.web.app/"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Características Principales de TwitterFake"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Una aplicación completa de red social tipo Twitter con funcionalidades avanzadas de mensajería, diseñada para ofrecer la mejor experiencia de usuario."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Sistema de mensajería en tiempo real"
+      - "Autenticación segura con JWT y OAuth2 (Google)"
+      - "Control de roles (guest, user, admin)"
+      - "Moderación de contenido avanzada"
+      - "Interfaz responsive y moderna"
+      - "**Arquitectura escalable** con Spring Boot y Angular"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: "Ver Demo"
+      link: "https://twitterfake.web.app/"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Tecnología de Vanguardia"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Desarrollado con las mejores prácticas de ingeniería de software, utilizando tecnologías modernas para garantizar rendimiento y escalabilidad."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Backend robusto con Spring Boot y arquitectura hexagonal"
+      - "Frontend dinámico con Angular, TailwindCSS y PrimeNG"
+      - "Base de datos optimizada con JPA y MySQL"
+      - "Despliegue automático con CI/CD en Firebase y Koyeb"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "Ver Tecnologías"
+      link: "/tech-stack"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Seguridad y Calidad Garantizada"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Código de alta calidad respaldado por pruebas exhaustivas y medidas de seguridad implementadas desde el diseño."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Pruebas unitarias completas con JUnit + Mockito"
+      - "Patrón AAA (Arrange, Act, Assert) para testing"
+      - "Autenticación basada en roles para máxima seguridad"
+      - "Validación y sanitización de contenido generado por usuarios"
     button:
       enable: false
       label: ""

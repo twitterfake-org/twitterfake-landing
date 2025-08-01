@@ -1,27 +1,28 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Lo que Dicen los Evaluadores Técnicos"
+description: "Comentarios sobre la implementación técnica, arquitectura y calidad del código de TwitterFake por parte de desarrolladores y evaluadores."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Ana García"
+    designation: "Tech Lead"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "La arquitectura hexagonal implementada demuestra un sólido entendimiento de patrones de diseño. La separación de responsabilidades es ejemplar y facilita mucho el mantenimiento del código."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Carlos Rodríguez"
+    designation: "Senior Backend Developer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "La implementación de autenticación con JWT y OAuth2 está muy bien ejecutada. Las pruebas unitarias con patrón AAA muestran un enfoque profesional hacia la calidad del software."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "María López"
+    designation: "Frontend Specialist"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "El uso de Angular con TailwindCSS y PrimeNG resulta en una interfaz moderna y responsive. La integración frontend-backend está muy bien lograda."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "David Martín"
+    designation: "DevOps Engineer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "El setup de CI/CD con despliegue automático en Firebase y Koyeb demuestra conocimientos sólidos en DevOps. La pipeline está bien estructurada y es eficiente."
+---
 ---
