@@ -11,44 +11,48 @@ banner:
 
 # Features
 features:
-  - title: "Características Principales de TwitterFake"
-    image: "/images/service-1.png"
-    content: "Una aplicación completa de red social tipo Twitter con funcionalidades avanzadas de mensajería, diseñada para ofrecer la mejor experiencia de usuario."
+  - title: "Feed Principal y Publicaciones"
+    image: "/images/call-to-action.png"
+    content: "El corazón de TwitterFake: un feed dinámico donde puedes ver, crear y gestionar tus publicaciones. Mantente conectado con la comunidad y comparte tus pensamientos."
     bulletpoints:
-      - "Sistema de mensajería en tiempo real"
-      - "Autenticación segura con JWT y OAuth2 (Google)"
-      - "Control de roles (guest, user, admin)"
-      - "Moderación de contenido avanzada"
-      - "Interfaz responsive y moderna"
-      - "**Arquitectura escalable** con Spring Boot y Angular"
+      - "**Timeline en tiempo real** con todas las publicaciones de usuarios"
+      - "**Crear publicaciones** instantáneamente desde el feed principal"
+      - "**CRUD completo** - Editar, eliminar y gestionar tus posts"
+      - "**Descubrimiento de usuarios** registrados con opción de seguimiento"
+      - "**Interfaz intuitiva** que hace la publicación súper fácil"
+      - "**Interacción social** directa desde el feed principal"
     button:
       enable: false
-      label: "Ver Demo"
+      label: "Probar el Feed"
       link: "https://twitterfake.web.app/"
 
-  - title: "Tecnología de Vanguardia"
+  - title: "Perfiles Personalizados y Gestión"
     image: "/images/service-2.png"
-    content: "Desarrollado con las mejores prácticas de ingeniería de software, utilizando tecnologías modernas para garantizar rendimiento y escalabilidad."
+    content: "Tu espacio personal en TwitterFake. Gestiona tu perfil, información personal y controla toda tu actividad social desde un solo lugar."
     bulletpoints:
-      - "Backend robusto con Spring Boot y arquitectura hexagonal"
-      - "Frontend dinámico con Angular, TailwindCSS y PrimeNG"
-      - "Base de datos optimizada con JPA y MySQL"
-      - "Despliegue automático con CI/CD en Firebase y Koyeb"
-    button:
-      enable: true
-      label: "Ver Tecnologías"
-      link: "/tech-stack"
-
-  - title: "Seguridad y Calidad Garantizada"
-    image: "/images/service-3.png"
-    content: "Código de alta calidad respaldado por pruebas exhaustivas y medidas de seguridad implementadas desde el diseño."
-    bulletpoints:
-      - "Pruebas unitarias completas con JUnit + Mockito"
-      - "Patrón AAA (Arrange, Act, Assert) para testing"
-      - "Autenticación basada en roles para máxima seguridad"
-      - "Validación y sanitización de contenido generado por usuarios"
+      - "**Perfil personalizable** con tu información y foto"
+      - "**Edición de datos** personales en tiempo real"
+      - "**Gestión de posts** - Ve y administra todas tus publicaciones"
+      - "**Seguidores y seguidos** con control total de conexiones"
+      - "**Navegación entre perfiles** de otros usuarios"
+      - "**Privacidad controlada** - Tú decides qué mostrar"
     button:
       enable: false
-      label: ""
-      link: ""
+      label: "Ver Perfiles"
+      link: "https://twitterfake.web.app/"
+
+  - title: "Sistema Social Completo"
+    image: "/images/service-3.png"
+    content: "Conecta con otros usuarios de manera segura y significativa. TwitterFake facilita la construcción de redes sociales auténticas."
+    bulletpoints:
+      - "**Sistema de seguimiento** - Sigue y deja de seguir usuarios"
+      - "**Visualización de perfiles** de otros usuarios al hacer clic"
+      - "**Lista de seguidores** y usuarios que sigues"
+      - "**Gestión de conexiones** con opciones de unfollow"
+      - "**Autenticación segura** con Google OAuth2 integrado"
+      - "**Experiencia social fluida** y sin complicaciones"
+    button:
+      enable: false
+      label: "Unirse Ahora"
+      link: "https://twitterfake.web.app/"
 ---

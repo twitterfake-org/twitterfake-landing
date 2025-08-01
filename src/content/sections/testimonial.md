@@ -1,28 +1,28 @@
 ---
 enable: true
-title: "Lo que Dicen los Evaluadores Técnicos"
-description: "Comentarios sobre la implementación técnica, arquitectura y calidad del código de TwitterFake por parte de desarrolladores y evaluadores."
+title: "Lo que Dicen Nuestros Usuarios"
+description: "Experiencias reales de usuarios que han probado TwitterFake. Descubre cómo nuestra plataforma ha mejorado su forma de conectar y comunicarse."
 
 # Testimonials
 testimonials:
-  - name: "Ana García"
-    designation: "Tech Lead"
+  - name: "Laura Mendoza"
+    designation: "Estudiante Universitaria"
     avatar: "/images/avatar-sm.png"
-    content: "La arquitectura hexagonal implementada demuestra un sólido entendimiento de patrones de diseño. La separación de responsabilidades es ejemplar y facilita mucho el mantenimiento del código."
+    content: "TwitterFake me encanta! La interfaz es súper intuitiva y los mensajes llegan al instante. Es perfecto para mantenerme conectada con mis amigos de la universidad. La moderación de contenido hace que me sienta segura al usarla."
 
-  - name: "Carlos Rodríguez"
-    designation: "Senior Backend Developer"
+  - name: "Roberto Silva"
+    designation: "Freelancer"
     avatar: "/images/avatar-sm.png"
-    content: "La implementación de autenticación con JWT y OAuth2 está muy bien ejecutada. Las pruebas unitarias con patrón AAA muestran un enfoque profesional hacia la calidad del software."
+    content: "Como trabajador independiente, necesito estar siempre conectado. TwitterFake me permite seguir conversaciones importantes y compartir mis proyectos de manera fácil. El login con Google es súper conveniente."
 
-  - name: "María López"
-    designation: "Frontend Specialist"
+  - name: "Carmen Torres"
+    designation: "Madre de Familia"
     avatar: "/images/avatar-sm.png"
-    content: "El uso de Angular con TailwindCSS y PrimeNG resulta en una interfaz moderna y responsive. La integración frontend-backend está muy bien lograda."
+    content: "Al principio era escéptica con las redes sociales, pero TwitterFake es diferente. Es fácil de usar, no me bombardea con publicidad extraña, y puedo controlar quién ve mis publicaciones. Perfecto para compartir momentos familiares."
 
-  - name: "David Martín"
-    designation: "DevOps Engineer"
+  - name: "Andrés Morales"
+    designation: "Emprendedor"
     avatar: "/images/avatar-sm.png"
-    content: "El setup de CI/CD con despliegue automático en Firebase y Koyeb demuestra conocimientos sólidos en DevOps. La pipeline está bien estructurada y es eficiente."
+    content: "He probado muchas plataformas sociales para mi negocio, pero TwitterFake tiene algo especial. La velocidad de la plataforma es impresionante y la experiencia de usuario es muy fluida. Definitivamente la recomiendo."
 ---
 ---

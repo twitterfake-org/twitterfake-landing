@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "TwitterFake - Red Social Moderna",
-    "base_url": "https://twitterfake-landing.netlify.app",
+    "base_url": "https://twitterfake.web.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -30,7 +30,7 @@
   "navigation_button": {
     "enable": true,
     "label": "Ver Demo",
-    "link": "#demo"
+    "link": "https://twitterfake.web.app"
   },
 
   "google_tag_manager": {
@@ -46,7 +46,7 @@
 
   "metadata": {
     "meta_author": "TwitterFake Developer",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/images/banner.png",
     "meta_description": "TwitterFake - Una red social moderna desarrollada con Spring Boot, Angular y tecnologías de vanguardia. MVP de mensajería y red social con arquitectura escalable."
   }
 }
